@@ -6,7 +6,7 @@ let names: string[] = ['mario', 'luigi', 'peach']
 let ages: number[] = [25, 28, 24]
 
 // names.push(true)
-names.push('bowser')
+names.push('hi')
 
 // ages.push('35')
 ages.push(30)
@@ -36,6 +36,7 @@ let user: { firstName: string; age: number; id: number } = {
 	id: 1,
 	// isFictional: true
 }
+
 
 // user.name = 25
 // user.email = 'peach@netninja.dev'

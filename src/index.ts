@@ -43,4 +43,4 @@ let anotherThing: undefined
 something = null
 
 // anotherThing = 'hello, world'
-anotherThing = undefined
+

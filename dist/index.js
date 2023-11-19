@@ -31,4 +31,3 @@ let anotherThing;
 // something = 10
 something = null;
 // anotherThing = 'hello, world'
-anotherThing = undefined;
